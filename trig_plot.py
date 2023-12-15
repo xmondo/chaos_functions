@@ -10,7 +10,7 @@ low_res = 500
 medium_res = 1000
 high_res = 10000
 very_high_res = 100000
-plot_dir = '/home/xmondo/Desktop/plots'
+plot_dir = <output plot directory>
 try:
     print('number of frames: ', len(frames))
     for k in frames:
