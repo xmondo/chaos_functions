@@ -9,7 +9,7 @@ steps = 15
 x = 0
 y = 0.5
 
-plot_dir = <output directory>
+plot_dir = <output plot directory>
 
 if __name__ == '__main__':
     try:
