@@ -1,15 +1,13 @@
 # CHAOS FUNCTIONS
 ## Installation
 
-...
-pip install matplotlib
+`pip install matplotlib`
 
 pip install numpy
 
 pip install cairosvg
 
 pip install Pillow
-...
 
 # Usage
 
