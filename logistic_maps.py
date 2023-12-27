@@ -9,7 +9,7 @@ steps = 15
 x = 0
 y = 0.5
 
-plot_dir = '/home/xmondo/Desktop/growth'
+plot_dir = <output directory>
 
 if __name__ == '__main__':
     try:
