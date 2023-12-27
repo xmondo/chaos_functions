@@ -3,9 +3,9 @@ import glob as gb
 import cairosvg
 from PIL import Image
 
-svg_directory = <output plot directory>
-png_directory = <output plot directory>
-output_gif = <output animated gif file>
+svg_directory = <path to plot directory>
+png_directory = <path to plot directory>
+output_gif = <path to animated gif file>
 
 os.chdir(svg_directory)
 svg_list = gb.glob('*.svg')
