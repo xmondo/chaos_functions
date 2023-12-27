@@ -5,7 +5,7 @@ from PIL import Image
 
 svg_directory = <path to plot directory>
 png_directory = <path to plot directory>
-output_gif = <path to animated gif file>
+output_gif = <path to animated gif filename>
 
 os.chdir(svg_directory)
 svg_list = gb.glob('*.svg')
