@@ -1,4 +1,11 @@
 # CHAOS FUNCTIONS
+## Installation
+
+pip install matplotlib
+
+pip install numpy
+
+
 ## References
 - Discrete Dynamical Systems, Chaos Theory and Fractals
   Sundbye, Linda (https://sites.msudenver.edu/sundbyel/), Createspace Independent Publishing Platform
