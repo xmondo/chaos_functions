@@ -11,7 +11,9 @@
 
 # Usage
 
-The ChaosTrigPlot class contains the following chaotic functions: 
+The ChaosTrigPlot class <i>fplot</i> function generates an array of values for the chaotic function of choice (uncommented). 
+
+
 
 
 
