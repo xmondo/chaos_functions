@@ -11,6 +11,8 @@
 
 # Usage
 
+Adjust all script variable to match your environmnt. 
+
 ### Animated Chaotic Functions
 
 1. The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice; simply uncomment the chaotic function you wish to animate.
