@@ -19,7 +19,9 @@ Adjust all script variables to match your environmnt.
 
 2. Run <b><i> trig_plot.py </b></i> to generate each frame. 
 
-3. Run <b><i> animate_svg_files.py </b></i> to animate the chaotic function and open the animated gif in a web browser. 
+3. Run <b><i> animate_svg_files.py </b></i> to animate the chaotic function.
+  
+4. Open the animated gif in a web browser. 
 
 ### Logistic Maps 
 
