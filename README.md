@@ -15,7 +15,7 @@ Adjust all script variables to match your environmnt.
 
 ### Animated Chaotic Functions
 
-1. The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice; simply uncomment the chaotic function you wish to animate.
+1. The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice; uncomment the chaotic function you wish to animate.
 
 2. Run <b><i> trig_plot.py </b></i> to generate each frame. 
 
