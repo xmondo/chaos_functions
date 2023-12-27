@@ -11,11 +11,17 @@
 
 # Usage
 
-The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice (uncommented). 
+### Animated Chaotic Functions
 
+The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice; simply uncomment the chaotic function you wish to animate.
 
+Run <b><i> trig_plot.py </b></i> to generate each frame. 
 
+Run <b><i> animate_svg_files.py </b></i> to animate the chaotic function and open the animated gif in a web browser. 
 
+### Logistic Maps 
+
+Run <b><i> logistic_maps.py </b></i> after adjusting the growth factor (the "factor" variable).
 
 ## References
 - Discrete Dynamical Systems, Chaos Theory and Fractals
