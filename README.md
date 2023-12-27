@@ -11,7 +11,7 @@
 
 # Usage
 
-Adjust all script variable to match your environmnt. 
+Adjust all script variables to match your environmnt. 
 
 ### Animated Chaotic Functions
 
