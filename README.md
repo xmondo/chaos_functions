@@ -1,13 +1,7 @@
 # CHAOS FUNCTIONS
 ## Installation
 
-`pip install matplotlib`
-
-`pip install numpy`
-
-`pip install cairosvg`
-
-`pip install Pillow`
+<code> pip install -r requirements </code>
 
 # Usage
 
