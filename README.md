@@ -9,17 +9,17 @@ Adjust all script variables to match your environmnt.
 
 ### Animated Chaotic Functions
 
-1. The <b><i>ChaosTrigPlot</i></b> class <b><i>fplot</i></b> function returns an array of values for the chaotic function of choice; uncomment the chaotic function you wish to animate.
+1. The <code>ChaosTrigPlot</code> class <code>fplot</code> function returns an array of values for the chaotic function of choice; uncomment the chaotic function you wish to animate.
 
-2. Run <b><i> trig_plot.py </b></i> to generate each frame. 
+2. Run <code> trig_plot.py </code> to generate each frame. 
 
-3. Run <b><i> animate_svg_files.py </b></i> to animate the chaotic function.
+3. Run <code> animate_svg_files.py </code> to animate the chaotic function.
   
 4. Open the animated gif in a web browser. 
 
 ### Logistic Maps 
 
-Run <b><i> logistic_maps.py </b></i> after adjusting the growth factor (the "factor" variable).
+Run <code> logistic_maps.py </code> after adjusting the growth factor (the "factor" variable).
 
 ## Examples 
 
